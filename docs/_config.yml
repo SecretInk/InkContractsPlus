@@ -24,7 +24,7 @@ back_to_top_text: "Back to top"
 # Shown top right. Set this to your repo / Modrinth page once they're public.
 aux_links:
   "Modrinth":
-    - "https://modrinth.com/plugin/inkcontracts"
+    - "https://modrinth.com/project/inkcontractsplus"
 aux_links_new_tab: true
 
 footer_content: "InkContracts+ documentation. Not an official Minecraft product; not approved by or associated with Mojang or Microsoft."
